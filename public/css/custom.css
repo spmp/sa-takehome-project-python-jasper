@@ -22,3 +22,11 @@ h1, h2, h3, h4 {
   border-color: #ccc;
   padding: 5px;
 }
+.border-success {
+    background-color: #d4edda; /* Light Green */
+    border: 2px solid #4cae4c; /* Darker Green Border */
+    border-radius: 10px; /* Rounded Corners */
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+}
